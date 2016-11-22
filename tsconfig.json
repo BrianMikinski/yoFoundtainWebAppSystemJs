@@ -4,7 +4,8 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "removeComments": false,
-    "noImplicitAny": false
+    "noImplicitAny": false,
+    "traceResolution": true
   },
   "compileOnSave": false,
   "filesGlob": [
